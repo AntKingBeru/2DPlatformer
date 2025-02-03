@@ -14,11 +14,11 @@ public class PlayerController : MonoBehaviour
     {
         _playerRb = GetComponent<Rigidbody2D>();
         _animator = GetComponent<Animator>();
-        _speed = 0.05f;
+        _speed = 0.15f;
     }
 
     // Update is called once per frame
-    private void Update()
+    private void FixedUpdate()
     {
         float xPos = transform.position.x;
         float yPos = transform.position.y;

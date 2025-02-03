@@ -4,11 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-<<<<<<< Updated upstream
-  productGUID: 737c2958ecbdfeb45a3270bbbd31db19
-=======
-  productGUID: 4457c91d931d45d48a87812c665a0a78
->>>>>>> Stashed changes
+  productGUID: 02a891944631a6d4fbd169a28e921e39
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -17,17 +13,10 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-<<<<<<< Updated upstream
-  productName: platformerSetup
-  defaultCursor: {fileID: 0}
-  cursorHotspot: {x: 0, y: 0}
-  m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
-=======
   productName: 2DPlatformer
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.12156863, g: 0.12156863, b: 0.1254902, a: 1}
->>>>>>> Stashed changes
   m_ShowUnitySplashScreen: 1
   m_ShowUnitySplashLogo: 1
   m_SplashScreenOverlayOpacity: 1
@@ -58,11 +47,7 @@ PlayerSettings:
   defaultScreenWidthWeb: 960
   defaultScreenHeightWeb: 600
   m_StereoRenderingPath: 0
-<<<<<<< Updated upstream
-  m_ActiveColorSpace: 1
-=======
   m_ActiveColorSpace: 0
->>>>>>> Stashed changes
   unsupportedMSAAFallback: 0
   m_SpriteBatchVertexThreshold: 300
   m_MTRendering: 1
@@ -171,29 +156,14 @@ PlayerSettings:
   useHDRDisplay: 0
   hdrBitDepth: 0
   m_ColorGamuts: 00000000
-<<<<<<< Updated upstream
-  targetPixelDensity: 30
-=======
   targetPixelDensity: 0
->>>>>>> Stashed changes
   resolutionScalingMode: 0
   resetResolutionOnWindowResize: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
-<<<<<<< Updated upstream
-  applicationIdentifier:
-    Standalone: com.DefaultCompany.2DProject
-  buildNumber:
-    Standalone: 0
-    VisionOS: 0
-    iPhone: 0
-    tvOS: 0
-  overrideDefaultApplicationIdentifier: 1
-=======
   applicationIdentifier: {}
   buildNumber: {}
   overrideDefaultApplicationIdentifier: 0
->>>>>>> Stashed changes
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 22
   AndroidTargetSdkVersion: 0
@@ -211,21 +181,12 @@ PlayerSettings:
   strictShaderVariantMatching: 0
   VertexChannelCompressionMask: 4054
   iPhoneSdkVersion: 988
-<<<<<<< Updated upstream
-  iOSTargetOSVersionString: 12.0
-  tvOSSdkVersion: 0
-  tvOSRequireExtendedGameController: 0
-  tvOSTargetOSVersionString: 12.0
-  VisionOSSdkVersion: 0
-  VisionOSTargetOSVersionString: 1.0
-=======
   iOSTargetOSVersionString: 
   tvOSSdkVersion: 0
   tvOSRequireExtendedGameController: 0
   tvOSTargetOSVersionString: 
   VisionOSSdkVersion: 0
   VisionOSTargetOSVersionString: 
->>>>>>> Stashed changes
   uIPrerenderedIcon: 0
   uIRequiresPersistentWiFi: 0
   uIRequiresFullScreen: 1
@@ -283,15 +244,9 @@ PlayerSettings:
   iOSAutomaticallyDetectAndAddCapabilities: 1
   appleEnableProMotion: 0
   shaderPrecisionModel: 0
-<<<<<<< Updated upstream
-  clonedFromGUID: 10ad67313f4034357812315f3c407484
-  templatePackageId: com.unity.template.2d@7.0.3
-  templateDefaultScene: Assets/Scenes/SampleScene.unity
-=======
   clonedFromGUID: 00000000000000000000000000000000
   templatePackageId: 
   templateDefaultScene: 
->>>>>>> Stashed changes
   useCustomMainManifest: 0
   useCustomLauncherManifest: 0
   useCustomMainGradleTemplate: 0
@@ -323,56 +278,14 @@ PlayerSettings:
   AndroidMinifyRelease: 0
   AndroidMinifyDebug: 0
   AndroidValidateAppBundleSize: 1
-<<<<<<< Updated upstream
-  AndroidAppBundleSizeToValidate: 150
-=======
   AndroidAppBundleSizeToValidate: 200
->>>>>>> Stashed changes
   m_BuildTargetIcons: []
   m_BuildTargetPlatformIcons: []
   m_BuildTargetBatching: []
   m_BuildTargetShaderSettings: []
-<<<<<<< Updated upstream
-  m_BuildTargetGraphicsJobs:
-  - m_BuildTarget: MacStandaloneSupport
-    m_GraphicsJobs: 0
-  - m_BuildTarget: Switch
-    m_GraphicsJobs: 0
-  - m_BuildTarget: MetroSupport
-    m_GraphicsJobs: 0
-  - m_BuildTarget: AppleTVSupport
-    m_GraphicsJobs: 0
-  - m_BuildTarget: BJMSupport
-    m_GraphicsJobs: 0
-  - m_BuildTarget: LinuxStandaloneSupport
-    m_GraphicsJobs: 0
-  - m_BuildTarget: PS4Player
-    m_GraphicsJobs: 0
-  - m_BuildTarget: iOSSupport
-    m_GraphicsJobs: 0
-  - m_BuildTarget: WindowsStandaloneSupport
-    m_GraphicsJobs: 0
-  - m_BuildTarget: XboxOnePlayer
-    m_GraphicsJobs: 0
-  - m_BuildTarget: LuminSupport
-    m_GraphicsJobs: 0
-  - m_BuildTarget: AndroidPlayer
-    m_GraphicsJobs: 0
-  - m_BuildTarget: WebGLSupport
-    m_GraphicsJobs: 0
-  m_BuildTargetGraphicsJobMode: []
-  m_BuildTargetGraphicsAPIs:
-  - m_BuildTarget: AndroidPlayer
-    m_APIs: 150000000b000000
-    m_Automatic: 1
-  - m_BuildTarget: iOSSupport
-    m_APIs: 10000000
-    m_Automatic: 1
-=======
   m_BuildTargetGraphicsJobs: []
   m_BuildTargetGraphicsJobMode: []
   m_BuildTargetGraphicsAPIs: []
->>>>>>> Stashed changes
   m_BuildTargetVRSettings: []
   m_DefaultShaderChunkSizeInMB: 16
   m_DefaultShaderChunkCount: 0
@@ -382,10 +295,7 @@ PlayerSettings:
   m_TemplateCustomTags: {}
   mobileMTRendering:
     Android: 1
-<<<<<<< Updated upstream
-=======
     VisionOS: 1
->>>>>>> Stashed changes
     iPhone: 1
     tvOS: 1
   m_BuildTargetGroupLightmapEncodingQuality: []
@@ -393,13 +303,7 @@ PlayerSettings:
   m_BuildTargetGroupLightmapSettings: []
   m_BuildTargetGroupLoadStoreDebugModeSettings: []
   m_BuildTargetNormalMapEncoding: []
-<<<<<<< Updated upstream
-  m_BuildTargetDefaultTextureCompressionFormat:
-  - m_BuildTarget: Android
-    m_Format: 3
-=======
   m_BuildTargetDefaultTextureCompressionFormat: []
->>>>>>> Stashed changes
   playModeTestRunnerEnabled: 0
   runPlayModeTestAsEditModeTest: 0
   actionOnDotNetUnhandledException: 1
@@ -410,11 +314,7 @@ PlayerSettings:
   locationUsageDescription: 
   microphoneUsageDescription: 
   bluetoothUsageDescription: 
-<<<<<<< Updated upstream
-  macOSTargetOSVersion: 10.13.0
-=======
   macOSTargetOSVersion: 
->>>>>>> Stashed changes
   switchNMETAOverride: 
   switchNetLibKey: 
   switchSocketMemoryPoolSize: 6144
@@ -539,11 +439,7 @@ PlayerSettings:
   switchSystemResourceMemory: 16777216
   switchSupportedNpadStyles: 22
   switchNativeFsCacheSize: 32
-<<<<<<< Updated upstream
-  switchIsHoldTypeHorizontal: 0
-=======
   switchIsHoldTypeHorizontal: 1
->>>>>>> Stashed changes
   switchSupportedNpadCount: 8
   switchEnableTouchScreen: 1
   switchSocketConfigEnabled: 0
@@ -556,11 +452,7 @@ PlayerSettings:
   switchSocketBufferEfficiency: 4
   switchSocketInitializeEnabled: 1
   switchNetworkInterfaceManagerInitializeEnabled: 1
-<<<<<<< Updated upstream
-  switchUseNewStyleFilepaths: 0
-=======
   switchUseNewStyleFilepaths: 1
->>>>>>> Stashed changes
   switchUseLegacyFmodPriorities: 0
   switchUseMicroSleepForYield: 1
   switchEnableRamDiskSupport: 0
@@ -606,11 +498,7 @@ PlayerSettings:
   ps4GarlicHeapSize: 2048
   ps4ProGarlicHeapSize: 2560
   playerPrefsMaxSize: 32768
-<<<<<<< Updated upstream
-  ps4Passcode: bi9UOuSpM2Tlh01vOzwvSikHFswuzleh
-=======
   ps4Passcode: frAQBc8Wsa1xVPfvJcrgRYwTiizs2trQ
->>>>>>> Stashed changes
   ps4pnSessions: 1
   ps4pnPresence: 1
   ps4pnFriends: 1
@@ -661,11 +549,7 @@ PlayerSettings:
   webGLTemplate: APPLICATION:Default
   webGLAnalyzeBuildSize: 0
   webGLUseEmbeddedResources: 0
-<<<<<<< Updated upstream
-  webGLCompressionFormat: 0
-=======
   webGLCompressionFormat: 1
->>>>>>> Stashed changes
   webGLWasmArithmeticExceptions: 0
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
@@ -683,25 +567,7 @@ PlayerSettings:
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}
   il2cppCodeGeneration: {}
-<<<<<<< Updated upstream
-  managedStrippingLevel:
-    EmbeddedLinux: 1
-    GameCoreScarlett: 1
-    GameCoreXboxOne: 1
-    Nintendo Switch: 1
-    PS4: 1
-    PS5: 1
-    QNX: 1
-    Stadia: 1
-    VisionOS: 1
-    WebGL: 1
-    Windows Store Apps: 1
-    XboxOne: 1
-    iPhone: 1
-    tvOS: 1
-=======
   managedStrippingLevel: {}
->>>>>>> Stashed changes
   incrementalIl2cppBuild: {}
   suppressCommonWarnings: 1
   allowUnsafeCode: 0
@@ -713,22 +579,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-<<<<<<< Updated upstream
-  metroPackageName: platformerSetup
-=======
   metroPackageName: 2DPlatformer
->>>>>>> Stashed changes
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-<<<<<<< Updated upstream
-  metroApplicationDescription: platformerSetup
-=======
   metroApplicationDescription: 2DPlatformer
->>>>>>> Stashed changes
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -797,19 +655,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-<<<<<<< Updated upstream
-  cloudProjectId: 4f6b135b-319f-4968-acaf-0c110f856d69
-  framebufferDepthMemorylessMode: 0
-  qualitySettingsNames: []
-  projectName: platformerSetup
-  organizationId: antkingberu
-=======
   cloudProjectId: 
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: 
   organizationId: 
->>>>>>> Stashed changes
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
