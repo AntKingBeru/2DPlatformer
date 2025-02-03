@@ -40,7 +40,7 @@ public class PlayerController : MonoBehaviour
             _animator.SetBool("isWalking", false);
         }
 
-        if (Input.GetKeyDown(KeyCode.Space) && _isGrounded)
+        if ((Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.W)) && _isGrounded)
         {
             _playerRb.AddForce(new Vector2(0, 500));
             _isGrounded = false;
